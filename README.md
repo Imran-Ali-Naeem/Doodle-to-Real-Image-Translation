@@ -42,6 +42,8 @@ cd Doodle-to-Real-Image-Translation
 
 # Install
 pip install -r requirements.txt
+
+
 💻 Usage
 Training
 bash
@@ -52,6 +54,8 @@ python test.py --input sketch.jpg --output result.png
 Run App
 bash
 python app.py
+
+
 ⚙️ Hyperparameters
 Parameter	Value
 Image Size	256×256
@@ -64,7 +68,7 @@ Generator Loss: Stable convergence ~20.4
 
 Discriminator Loss: Maintains 0.26-0.29
 
-🙏 Acknowledgments
+Acknowledgments
 Pix2Pix Paper
 
 Kaggle for GPU resources
@@ -76,6 +80,5 @@ GitHub: Imran-Ali-Naeem
 
 Hugging Face: ImranAliNaeem
 
-text
 
 This concise version includes all essential information without excessive detail.
