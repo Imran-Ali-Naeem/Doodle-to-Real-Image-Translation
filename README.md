@@ -1,6 +1,6 @@
 # Doodle-to-Real Image Translation & Colorization using Pix2Pix
 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo-Space-blue)](https://huggingface.co/spaces/ImranAliNaeem/pix2pix-anime)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Live%20Demo-Space-blue)]([https://huggingface.co/spaces/ImranAliNaeem/pix2pix-anime](https://huggingface.co/spaces/ImranAliNaeem/CycleGAN-Image-Translator))
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg)](https://pytorch.org/)
 
 ## 📌 Overview
