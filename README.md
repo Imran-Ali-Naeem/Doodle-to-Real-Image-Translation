@@ -7,7 +7,7 @@
 Pix2Pix implementation for sketch-to-realistic and grayscale-to-color image translation using Conditional GAN.
 
 ## 🚀 Live Demo
-**Try it here:** [Hugging Face Space](https://huggingface.co/spaces/ImranAliNaeem/pix2pix-anime)
+**Try it here:** [[Hugging Face Space](https://huggingface.co/spaces/ImranAliNaeem/pix2pix-anime](https://huggingface.co/spaces/ImranAliNaeem/CycleGAN-Image-Translator))
 
 ## 📊 Results
 
